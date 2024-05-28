@@ -19,7 +19,7 @@ This project demonstrates how to use hand gestures to control mouse actions usin
 
 1. **Clone the Repository**:
    ```bash
-   git clone  https://github.com/Deepan-CodeBuster/-Hand-Gesture-Control-for-Mouse-using-OpenCV-and-MediaPipe.git
+   git clone https://github.com/Deepan-CodeBuster/Hand-Gesture-Control-for-Mouse.git
    cd hand-gesture-control
    ```
 
